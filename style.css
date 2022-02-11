@@ -12,6 +12,10 @@ html,body{
   place-items: center;
   background: linear-gradient(315deg, #ffffff 0%, #d7e1ec 74%);
 }
+h1 {
+  color : #340599 ;
+
+}
 .wrapper .button{
   display: inline-block;
   height: 60px;
