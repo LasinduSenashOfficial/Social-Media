@@ -53,6 +53,9 @@ html,body{
 .wrapper .button:nth-child(5):hover .icon{
   background: #ff0000;
 }
+.wrapper .button:nth-child(6):hover .icon{
+  background: #1DA1F2;
+}
 .wrapper .button .icon i{
   font-size: 25px;
   line-height: 60px;
@@ -82,4 +85,7 @@ html,body{
 }
 .wrapper .button:nth-child(5) span{
   color: #ff0000;
+}
+.wrapper .button:nth-child(6):hover .icon{
+  background: #1DA1F2;
 }
