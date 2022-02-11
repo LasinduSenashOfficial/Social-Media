@@ -105,3 +105,8 @@ html,body{
 .wrapper .youtube:hover .tooltip:before{
   background: #DE463B;
 }
+.wrapper .linkdin:hover span,
+.wrapper .linkdin:hover .tooltip,
+.wrapper .linkdin:hover .tooltip:before{
+  background: #DE463B;
+}
